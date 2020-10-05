@@ -51,6 +51,7 @@ I co-founded <a href="https://vydia.com">Vydia</a> in 2013. We empower the next 
         rer="noopener noreferrer"
       >
         Vydia Launches Charitable Arm To Empower Diverse Music Communities
+        <br/>
         <img
           width="400"
           alt="Akon"
@@ -68,6 +69,7 @@ I co-founded <a href="https://vydia.com">Vydia</a> in 2013. We empower the next 
         rer="noopener noreferrer"
       >
         Partnership with World of Dance Records
+        <br/>
         <img
           width="400"
           alt="Vydia and billboard article quote"
@@ -85,6 +87,7 @@ I co-founded <a href="https://vydia.com">Vydia</a> in 2013. We empower the next 
         rer="noopener noreferrer"
       >
         Mark Allen: Winner of 2019 NJ Digi-Tech Innovators Awards
+        <br/>
         <img
           width="400"
           alt="Winner of the 2019 NJ Digi-Tech Innovators Awards"
