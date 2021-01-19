@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mark!</h1>
 
-Before anything else, please consider clicking the link below and supporting your fellow Black humans.
+Before anything else, click the link below and support your fellow Black humans.
 
 <a href="https://blacklivesmatters.carrd.co">
   <img
@@ -14,7 +14,7 @@ Before anything else, please consider clicking the link below and supporting you
 
 Dad, Co-founder & VP Engineering <a href="https://github.com/Vydia">@Vydia</a> – Empowering the next generation of creators.
 
-❤️ React GraphQL JS Ruby.
+❤️ React • GraphQL • JS • Ruby
 
 <h3>Keep in Touch</h3>
 <ul>
@@ -34,15 +34,66 @@ Dad, Co-founder & VP Engineering <a href="https://github.com/Vydia">@Vydia</a> �
   Vydia
 </h2>
 
-I co-founded <a href="https://vydia.com">Vydia</a> in 2013. We empower the next generation of music creators, managers, and labels.
+Co-founded <a href="https://vydia.com">Vydia</a> in 2013. We empower the next generation of music creators, managers, and labels.
 
 > We provide the digital infrastructure for audio and video distribution, content protection, rights management, advanced payments, and data tracking from one easy-to-use platform.
 
 <h3>
-  News
+  We are Hiring!
+</h3>
+
+<a
+  href="https://www.comeet.com/jobs/vydia/35.00C"
+  target="_blank"
+  rer="noopener noreferrer">
+  Click here to see the available positions and apply
+</a>
+
+Vydia’s mission, benefits, and team-oriented culture are just a few of the perks that come with working for one of the most entrepreneurial, fastest-growing companies in America. Recently named one of Top Places to Work by NJBIZ, Vydia has attracted top talent from all areas of the music and video technology ecosystem.
+
+We are always looking for passionate and motivated self-starters, so check out the open positions and apply. I can't wait to meet you!
+
+<h3>
+  Check out what we've been up to:
 </h3>
 
 <ul>
+  <li>
+    <h4>
+      <a
+        href="https://www.billboard.com/articles/business/9512522/a2im-black-independent-music-accelerator-record-labels"
+        target="_blank"
+        rer="noopener noreferrer"
+      >
+        A2IM Launches Accelerator for Black-Owned Record Labels, with Vydia as a sponsor
+        <br/>
+        <img
+          width="400"
+          alt="A2IM Black Independent Music Accelerator Logo"
+          src="https://static.billboard.com/files/2021/01/Bima-Application-logo-2021-billboard-1548-1610831249-compressed.jpg"
+        />
+      </a>
+    </h4>
+  </li>
+
+  <li>
+    <h4>
+      <a
+        href="https://www.billboard.com/articles/business/9512522/a2im-black-independent-music-accelerator-record-labels"
+        target="_blank"
+        rer="noopener noreferrer"
+      >
+        Vydia partners with Propel Center to provide resources for HBCU students nationwide
+        <br/>
+        <img
+          width="400"
+          alt="Propel Center's fascinating and modern building architecture"
+          src="https://pbs.twimg.com/card_img/1349343365498888194/zPaeKzb-?format=jpg&name=medium"
+        />
+      </a>
+    </h4>
+  </li>
+
   <li>
     <h4>
       <a
