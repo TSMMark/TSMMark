@@ -12,7 +12,7 @@ Before anything else, click the link below and support your fellow Black humans.
 
 <h2>About Me</h2>
 
-Dad, Co-founder & VP Engineering <a href="https://github.com/Vydia">@Vydia</a> – Empowering the next generation of creators.
+Dad, Co-founder & VP Engineering <a href="https://github.com/Vydia">@Vydia</a> – Powering the Business of Music.
 
 ❤️ React • GraphQL • JS • Ruby
 
@@ -34,7 +34,7 @@ Dad, Co-founder & VP Engineering <a href="https://github.com/Vydia">@Vydia</a> �
   Vydia
 </h2>
 
-Co-founded <a href="https://vydia.com">Vydia</a> in 2013. We empower the next generation of music creators, managers, and labels.
+Co-founded <a href="https://vydia.com">Vydia</a> in 2013. Powering the Business of Music. From artists, to creators, to managers, to labels.
 
 > We provide the digital infrastructure for audio and video distribution, content protection, rights management, advanced payments, and data tracking from one easy-to-use platform.
 
