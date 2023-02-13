@@ -14,7 +14,7 @@ Before anything else, click the link below and support your fellow Black humans.
 
 Dad, Co-founder & VP Engineering <a href="https://github.com/Vydia">@Vydia</a> – Powering the Business of Music.
 
-❤️ React • GraphQL • JS • Ruby
+❤️ React, GraphQL, TypeScript, Ruby
 
 <h3>Keep in Touch</h3>
 <ul>
