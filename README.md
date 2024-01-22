@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mark!</h1>
 
-Before anything else, click the link below and support your fellow Black humans.
+Click the link below and support your fellow Black humans.
 
 <a href="https://blacklivesmatters.carrd.co">
   <img
@@ -12,9 +12,9 @@ Before anything else, click the link below and support your fellow Black humans.
 
 <h2>About Me</h2>
 
-Dad, Co-founder & VP Engineering <a href="https://github.com/Vydia">@Vydia</a> – Powering the Business of Music.
+Dad of 2. Co-founder & Principal Engineer <a href="https://github.com/Vydia">@Vydia</a> – Powering the Business of Music.
 
-❤️ React, GraphQL, TypeScript, Ruby
+❤️ TypeScript, Ruby, React, GraphQL
 
 <h3>Keep in Touch</h3>
 <ul>
@@ -43,7 +43,7 @@ Co-founded <a href="https://vydia.com">Vydia</a> in 2013. Powering the Business 
 </h3>
 
 <a
-  href="https://www.comeet.com/jobs/vydia/35.00C"
+  href="https://vydia.com/careers"
   target="_blank"
   rer="noopener noreferrer">
   Click here to see the available positions and apply
